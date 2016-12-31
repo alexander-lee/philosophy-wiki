@@ -1,0 +1,17 @@
+{
+  "name": "wikiphilosophy",
+  "version": "1.0.0",
+  "description": "A web crawler to test the Wikipedia philosophy theory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "request": "^2.79.0",
+    "request-promise": "^4.1.1",
+    "url-parse": "^1.1.7"
+  }
+}
